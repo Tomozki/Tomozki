@@ -1,4 +1,4 @@
-<h1 align="center">Heya 👋, I'm Tomozaki</h1>
+<h1 align="center">Heya 👋, I'm Tomozki</h1>
 
 
 
