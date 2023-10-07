@@ -14,5 +14,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomozki&show_icons=true&locale=en" alt="tomozki" /></p>
 
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomozki&layout=compact&theme=cobalt)](https://github.com/Tomozki)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tomozki&bg_color=f0f5f5&color=9e4c98&line=6a4dff&point=403d3d&area=true&hide_border=true)](https://github.com/Tomozki)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomozki&" alt="tomozki" /></p>
 
